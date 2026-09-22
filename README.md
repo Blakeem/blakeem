@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Blake.
+
+If you want to know more about who I am, checkout my [LinkedIn](https://www.linkedin.com/in/blake-mcdonald-6a410520/). I develop for fun and as my day job. I've been contributing to open source since the late 90's.
+
+I use my [Claude Code Dynamic Workflows](https://aipromptguide.com/) on most of my projects. I've been needing to write less and less code as time goes on, I don't miss the tendonitis. I'm always learning and researching things across many fields, not just software.
+
+I welcome anyone who wants to contribute to my projects.
 
 <!--
 **Blakeem/blakeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
